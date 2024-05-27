@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="#ff9933"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminRachelDash">
+
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="380dp"
+        android:layout_height="140dp"
+        app:srcCompat="@drawable/budegtlogo"
+        android:layout_gravity="top"
+        android:layout_marginBottom="55dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/admin_dashboard"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/RachiebtnViewBookings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/view_bookings"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/RachiebtnViewUsers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="View Users" />
+
+    <Button
+        android:id="@+id/RachiebtnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/logout"
+        android:layout_marginBottom="16dp" />
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/E21F21817EditCarModel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Car Model" />
+
+    <EditText
+        android:id="@+id/E21F21817EditStartDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Start Date (dd/mm/yyyy)"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/E21F21817EditEndDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="End Date (dd/mm/yyyy)"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/E21F21817EditPricePerDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Price Per Day"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/E21F21817btnUpdateBooking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Booking"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

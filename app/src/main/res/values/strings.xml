@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BUDGETAPP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="view_bookings">View Bookings</string>
+    <string name="view_transactions">View Transactions</string>
+    <string name="logout">Logout</string>
+    <string name="car_image">Car Image</string>
+
+    <string name="transaction_details_title">Transaction Details</string>
+    <string name="confirm_transaction">Confirm Transaction</string>
+    <string name="car_details">Car Model: %1$s\nPrice per Day: $%2$.2f\nStart Date: %3$s\nEnd Date: %4$s\nTotal Amount: $%5$.2f\n</string>
+    <string name="final_total_amount">Final Total Amount: $%1$.2f</string>
+    <string name="transaction_confirmed">Transaction Confirmed!</string>
+</resources>

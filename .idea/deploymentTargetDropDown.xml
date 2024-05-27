@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="AdminRachelDash">
+        <State />
+      </entry>
+      <entry key="RachelSplashScreen">
+        <State />
+      </entry>
+      <entry key="RachelViewBookingScreen">
+        <State />
+      </entry>
+      <entry key="SetupAdminUserActivityRachel">
+        <State />
+      </entry>
+      <entry key="TransactionRachelScreen">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

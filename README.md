@@ -42,9 +42,9 @@ Built with **Android Studio** and **Firebase**, this app focuses on user conveni
 
 ## Screenshots
 
-![Screenshot 577](path/to/Screenshot%20577.png)  
-![Screenshot 589](path/to/Screenshot%20589.png)  
-![Screenshot 615](path/to/Screenshot%20615.png)  
-![Screenshot 617](path/to/Screenshot%20617.png)  
-![Screenshot 647](path/to/Screenshot%20647.png)  
-![Screenshot 662](path/to/Screenshot%20662.png)
+![Screenshot 577](Screenshot%20(577).png)  
+![Screenshot 589](Screenshot%20(589).png)  
+![Screenshot 615](Screenshot%20(615).png)  
+![Screenshot 617](Screenshot%20(617).png)  
+![Screenshot 647](Screenshot%20(647).png)  
+![Screenshot 662](Screenshot%20(662).png)
